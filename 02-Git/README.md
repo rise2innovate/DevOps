@@ -1,4 +1,4 @@
-# Ansible Installation and Initial Setup 
+# Git & Github Playbook
 
 1. [What, Why and How of Git](#What-Why-and-How-of-Git)
 2. [Lifecycle](#Lifecycle)
