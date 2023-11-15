@@ -1,13 +1,12 @@
 # Git & Github
 
 1. [What, Why and How of Git](#What-Why-and-How-of-Git)
-2. [Lifecycle](#Lifecycle)
+2. [Lifecycle](#lifecyle)
 3. [Git Branching](#Git-Branching)
 4. [Merging and Conflict Resolution](#Merging-and-Conflict-Resolution)
 5. [Github Overview](#Github-Overview)
-6. [Git remote SSH](#Git-remote-SSH)
-7. [What are Github Features?](#What-are-Github-features)
-8. [Github Co-pilot](#Github-Co-pilot)
+6. [What are Github Features?](#what-are-githubs-features)
+8. [Github Co-pilot](#github-copilot)
 
 ---
 &nbsp;
